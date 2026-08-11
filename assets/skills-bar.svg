@@ -1,0 +1,112 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 200" width="900" height="200">
+  <defs>
+    <linearGradient id="bgGrad2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0d1117"/>
+      <stop offset="100%" style="stop-color:#161b22"/>
+    </linearGradient>
+    <linearGradient id="barGradPython" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#3572A5"/>
+      <stop offset="100%" style="stop-color:#58a6ff"/>
+    </linearGradient>
+    <linearGradient id="barGradJS" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#f1e05a"/>
+      <stop offset="100%" style="stop-color:#f7df1e"/>
+    </linearGradient>
+    <linearGradient id="barGradReact" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#61dafb"/>
+      <stop offset="100%" style="stop-color:#88e8ff"/>
+    </linearGradient>
+    <linearGradient id="barGradJava" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#b07219"/>
+      <stop offset="100%" style="stop-color:#e8a838"/>
+    </linearGradient>
+    <linearGradient id="barGradML" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#f778ba"/>
+      <stop offset="100%" style="stop-color:#ff9ed2"/>
+    </linearGradient>
+    <linearGradient id="barGradCpp" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#bc8cff"/>
+      <stop offset="100%" style="stop-color:#d4b3ff"/>
+    </linearGradient>
+    <filter id="glow2">
+      <feGaussianBlur stdDeviation="2" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="900" height="200" fill="url(#bgGrad2)" rx="10"/>
+
+  <!-- Title -->
+  <text x="450" y="30" text-anchor="middle" fill="#c9d1d9" font-family="'Segoe UI', Arial, sans-serif" font-size="14" font-weight="600" letter-spacing="4">
+    SKILL PROFICIENCY
+  </text>
+
+  <!-- Python -->
+  <text x="45" y="60" fill="#c9d1d9" font-family="'Segoe UI', Arial, sans-serif" font-size="12" font-weight="500">Python</text>
+  <rect x="120" y="49" width="680" height="14" rx="7" fill="#21262d"/>
+  <rect x="120" y="49" width="0" height="14" rx="7" fill="url(#barGradPython)" filter="url(#glow2)">
+    <animate attributeName="width" from="0" to="612" dur="1.5s" fill="freeze" begin="0.2s"/>
+  </rect>
+  <text x="810" y="60" fill="#58a6ff" font-family="'Segoe UI', Arial, sans-serif" font-size="11" font-weight="600" opacity="0">
+    90%
+    <animate attributeName="opacity" from="0" to="1" dur="0.5s" fill="freeze" begin="1.5s"/>
+  </text>
+
+  <!-- JavaScript / React -->
+  <text x="22" y="85" fill="#c9d1d9" font-family="'Segoe UI', Arial, sans-serif" font-size="12" font-weight="500">JS / React</text>
+  <rect x="120" y="74" width="680" height="14" rx="7" fill="#21262d"/>
+  <rect x="120" y="74" width="0" height="14" rx="7" fill="url(#barGradReact)" filter="url(#glow2)">
+    <animate attributeName="width" from="0" to="578" dur="1.5s" fill="freeze" begin="0.4s"/>
+  </rect>
+  <text x="810" y="85" fill="#61dafb" font-family="'Segoe UI', Arial, sans-serif" font-size="11" font-weight="600" opacity="0">
+    85%
+    <animate attributeName="opacity" from="0" to="1" dur="0.5s" fill="freeze" begin="1.7s"/>
+  </text>
+
+  <!-- ML / DL -->
+  <text x="32" y="110" fill="#c9d1d9" font-family="'Segoe UI', Arial, sans-serif" font-size="12" font-weight="500">ML / DL</text>
+  <rect x="120" y="99" width="680" height="14" rx="7" fill="#21262d"/>
+  <rect x="120" y="99" width="0" height="14" rx="7" fill="url(#barGradML)" filter="url(#glow2)">
+    <animate attributeName="width" from="0" to="544" dur="1.5s" fill="freeze" begin="0.6s"/>
+  </rect>
+  <text x="810" y="110" fill="#f778ba" font-family="'Segoe UI', Arial, sans-serif" font-size="11" font-weight="600" opacity="0">
+    80%
+    <animate attributeName="opacity" from="0" to="1" dur="0.5s" fill="freeze" begin="1.9s"/>
+  </text>
+
+  <!-- Java -->
+  <text x="55" y="135" fill="#c9d1d9" font-family="'Segoe UI', Arial, sans-serif" font-size="12" font-weight="500">Java</text>
+  <rect x="120" y="124" width="680" height="14" rx="7" fill="#21262d"/>
+  <rect x="120" y="124" width="0" height="14" rx="7" fill="url(#barGradJava)" filter="url(#glow2)">
+    <animate attributeName="width" from="0" to="510" dur="1.5s" fill="freeze" begin="0.8s"/>
+  </rect>
+  <text x="810" y="135" fill="#e8a838" font-family="'Segoe UI', Arial, sans-serif" font-size="11" font-weight="600" opacity="0">
+    75%
+    <animate attributeName="opacity" from="0" to="1" dur="0.5s" fill="freeze" begin="2.1s"/>
+  </text>
+
+  <!-- C / C++ -->
+  <text x="39" y="160" fill="#c9d1d9" font-family="'Segoe UI', Arial, sans-serif" font-size="12" font-weight="500">C / C++</text>
+  <rect x="120" y="149" width="680" height="14" rx="7" fill="#21262d"/>
+  <rect x="120" y="149" width="0" height="14" rx="7" fill="url(#barGradCpp)" filter="url(#glow2)">
+    <animate attributeName="width" from="0" to="476" dur="1.5s" fill="freeze" begin="1.0s"/>
+  </rect>
+  <text x="810" y="160" fill="#bc8cff" font-family="'Segoe UI', Arial, sans-serif" font-size="11" font-weight="600" opacity="0">
+    70%
+    <animate attributeName="opacity" from="0" to="1" dur="0.5s" fill="freeze" begin="2.3s"/>
+  </text>
+
+  <!-- UI/UX Design -->
+  <text x="17" y="185" fill="#c9d1d9" font-family="'Segoe UI', Arial, sans-serif" font-size="12" font-weight="500">UI/UX Design</text>
+  <rect x="120" y="174" width="680" height="14" rx="7" fill="#21262d"/>
+  <rect x="120" y="174" width="0" height="14" rx="7" fill="url(#barGradJS)" filter="url(#glow2)">
+    <animate attributeName="width" from="0" to="578" dur="1.5s" fill="freeze" begin="1.2s"/>
+  </rect>
+  <text x="810" y="185" fill="#f7df1e" font-family="'Segoe UI', Arial, sans-serif" font-size="11" font-weight="600" opacity="0">
+    85%
+    <animate attributeName="opacity" from="0" to="1" dur="0.5s" fill="freeze" begin="2.5s"/>
+  </text>
+</svg>

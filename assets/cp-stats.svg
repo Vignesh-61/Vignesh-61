@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 160" width="900" height="160">
+  <defs>
+    <linearGradient id="cpBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0d1117"/>
+      <stop offset="100%" style="stop-color:#161b22"/>
+    </linearGradient>
+    <linearGradient id="lcGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#ffa116"/>
+      <stop offset="100%" style="stop-color:#ffb84d"/>
+    </linearGradient>
+    <linearGradient id="cfGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1f8acb"/>
+      <stop offset="100%" style="stop-color:#4db8ff"/>
+    </linearGradient>
+    <linearGradient id="ccGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#5b4638"/>
+      <stop offset="100%" style="stop-color:#8c6e56"/>
+    </linearGradient>
+    <filter id="cpGlow">
+      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  
+  <rect width="900" height="160" fill="url(#cpBg)" rx="10"/>
+
+  <!-- Title -->
+  <text x="450" y="28" text-anchor="middle" fill="#c9d1d9" font-family="'Segoe UI', Arial, sans-serif" font-size="14" font-weight="600" letter-spacing="4">
+    COMPETITIVE PROGRAMMING
+  </text>
+
+  <!-- LeetCode Card -->
+  <g>
+    <rect x="30" y="45" width="270" height="100" rx="10" fill="#161b22" stroke="#ffa116" stroke-width="1" opacity="0.8">
+      <animate attributeName="stroke-opacity" values="0.4;1;0.4" dur="3s" repeatCount="indefinite"/>
+    </rect>
+    <!-- LC Logo circle -->
+    <circle cx="70" cy="80" r="16" fill="none" stroke="url(#lcGrad)" stroke-width="2" filter="url(#cpGlow)">
+      <animate attributeName="r" values="16;18;16" dur="3s" repeatCount="indefinite"/>
+    </circle>
+    <text x="70" y="85" text-anchor="middle" fill="#ffa116" font-family="'Segoe UI', Arial, sans-serif" font-size="12" font-weight="700">LC</text>
+    <text x="105" y="73" fill="#c9d1d9" font-family="'Segoe UI', Arial, sans-serif" font-size="14" font-weight="600">LeetCode</text>
+    <text x="105" y="90" fill="#ffa116" font-family="'Segoe UI', Arial, sans-serif" font-size="11" font-weight="500">Rating: 1499</text>
+    <text x="105" y="106" fill="#8b949e" font-family="'Segoe UI', Arial, sans-serif" font-size="10" font-weight="400">145 Problems Solved</text>
+    <text x="105" y="120" fill="#8b949e" font-family="'Segoe UI', Arial, sans-serif" font-size="10" font-weight="400">Top 92.4% Globally</text>
+    <text x="105" y="134" fill="#58a6ff" font-family="'Segoe UI', Arial, sans-serif" font-size="10" font-weight="400">Rank #11,332</text>
+  </g>
+
+  <!-- Codeforces Card -->
+  <g>
+    <rect x="315" y="45" width="270" height="100" rx="10" fill="#161b22" stroke="#1f8acb" stroke-width="1" opacity="0.8">
+      <animate attributeName="stroke-opacity" values="0.4;1;0.4" dur="3.5s" repeatCount="indefinite"/>
+    </rect>
+    <circle cx="355" cy="80" r="16" fill="none" stroke="url(#cfGrad)" stroke-width="2" filter="url(#cpGlow)">
+      <animate attributeName="r" values="16;18;16" dur="3.5s" repeatCount="indefinite"/>
+    </circle>
+    <text x="355" y="85" text-anchor="middle" fill="#1f8acb" font-family="'Segoe UI', Arial, sans-serif" font-size="12" font-weight="700">CF</text>
+    <text x="390" y="73" fill="#c9d1d9" font-family="'Segoe UI', Arial, sans-serif" font-size="14" font-weight="600">Codeforces</text>
+    <text x="390" y="90" fill="#4db8ff" font-family="'Segoe UI', Arial, sans-serif" font-size="11" font-weight="500">Rating: 854</text>
+    <text x="390" y="106" fill="#8b949e" font-family="'Segoe UI', Arial, sans-serif" font-size="10" font-weight="400">22 Problems Solved</text>
+    <text x="390" y="120" fill="#8b949e" font-family="'Segoe UI', Arial, sans-serif" font-size="10" font-weight="400">Newbie</text>
+    <text x="390" y="134" fill="#58a6ff" font-family="'Segoe UI', Arial, sans-serif" font-size="10" font-weight="400">Best Rank #20,421</text>
+  </g>
+
+  <!-- CodeChef Card -->
+  <g>
+    <rect x="600" y="45" width="270" height="100" rx="10" fill="#161b22" stroke="#5b4638" stroke-width="1" opacity="0.8">
+      <animate attributeName="stroke-opacity" values="0.4;1;0.4" dur="4s" repeatCount="indefinite"/>
+    </rect>
+    <circle cx="640" cy="80" r="16" fill="none" stroke="url(#ccGrad)" stroke-width="2" filter="url(#cpGlow)">
+      <animate attributeName="r" values="16;18;16" dur="4s" repeatCount="indefinite"/>
+    </circle>
+    <text x="640" y="85" text-anchor="middle" fill="#8c6e56" font-family="'Segoe UI', Arial, sans-serif" font-size="12" font-weight="700">CC</text>
+    <text x="675" y="73" fill="#c9d1d9" font-family="'Segoe UI', Arial, sans-serif" font-size="14" font-weight="600">CodeChef</text>
+    <text x="675" y="90" fill="#8c6e56" font-family="'Segoe UI', Arial, sans-serif" font-size="11" font-weight="500">Rating: 1247 ★</text>
+    <text x="675" y="106" fill="#8b949e" font-family="'Segoe UI', Arial, sans-serif" font-size="10" font-weight="400">490 Problems Solved</text>
+    <text x="675" y="120" fill="#8b949e" font-family="'Segoe UI', Arial, sans-serif" font-size="10" font-weight="400">1 Star</text>
+    <text x="675" y="134" fill="#58a6ff" font-family="'Segoe UI', Arial, sans-serif" font-size="10" font-weight="400">Best Rank #11,520</text>
+  </g>
+</svg>
