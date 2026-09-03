@@ -1,51 +1,252 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- 🧠  VIGNESH V — AI/ML ENGINEER  •  FULL-STACK DEV  •  UI/UX  -->
+<!--  VIGNESH V — AI/ML Developer • Full-Stack Builder             -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<!-- Neural Network Animated Header -->
-<img src="./assets/neural-network-header.svg" alt="Vignesh V — AI/ML Engineer" width="100%" />
+<!-- Animated Neural Network Header -->
+<img src="./assets/neural-network-header.svg" alt="Vignesh V — AI/ML Developer" width="100%" />
 
-<!-- Animated Typing SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=%F0%9F%94%AC+Exploring+AI+%7C+ML+%7C+Deep+Learning;%F0%9F%8E%A8+Crafting+Beautiful+User+Experiences;%F0%9F%9A%80+Building+Intelligent+Full-Stack+Systems;%F0%9F%92%A1+Turning+Ideas+into+Impactful+Products" alt="Typing SVG" /></a>
-
-<!-- Visitor Badge & Profile Views -->
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Vignesh-61&label=Profile%20Views&color=58a6ff&style=for-the-badge)
-[![GitHub followers](https://img.shields.io/github/followers/Vignesh-61?label=Followers&style=for-the-badge&color=bc8cff&labelColor=0d1117)](https://github.com/Vignesh-61)
-[![GitHub stars](https://img.shields.io/github/stars/Vignesh-61?label=Stars&style=for-the-badge&color=f778ba&labelColor=0d1117)](https://github.com/Vignesh-61)
+<!-- Profile Views -->
+![Profile Views](https://komarev.com/ghpvc/?username=Vignesh-61&label=Profile%20Views&color=58a6ff&style=flat-square)
+
+<!-- Navigation -->
+<br/>
+
+[`About`](#-about) · [`Projects`](#-featured-projects) · [`Research`](#-research-playground) · [`Skills`](#-tech-arsenal) · [`Achievements`](#-competitive-programming) · [`Connect`](#-lets-build-something-interesting)
 
 </div>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- 🧬 ABOUT ME -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- Identity Strip -->
+<div align="center">
+<br/>
+
+`🎓 B.E. CSE (AI & ML)` &nbsp; `🤖 AI / ML` &nbsp; `👁️ Computer Vision` &nbsp; `🌐 Full-Stack` &nbsp; `🔬 Research` &nbsp; `💻 650+ Problems Solved`
+
+</div>
 
 <br/>
 
-<img align="right" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="coding gif"/>
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> &nbsp;About Me
-
-> *AI/ML enthusiast building intelligent systems that blend cutting-edge technology with beautiful design.*
-
-🎓 &nbsp;**B.E. CSE (AI & ML)** at KIT, Coimbatore — *CGPA: 8.05/10*  
-🧠 &nbsp;Passionate about **Machine Learning, Deep Learning & Computer Vision**  
-🎨 &nbsp;Former **UI/UX Design Intern** — Figma, Adobe XD, Illustrator  
-🏆 &nbsp;**490+ problems** solved across competitive programming platforms  
-🔭 &nbsp;Currently exploring **Generative AI & Large Language Models**  
-📍 &nbsp;Based in **Tiruppur, Tamil Nadu, India**  
-⚡ &nbsp;Fun fact: I debug neural networks *and* pixel-perfect UIs  
-
-<br clear="right"/>
-
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- 🛠️ TECH STACK -->
+<!-- 🧠 ABOUT -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> &nbsp;Tech Arsenal
+## 🧠 About
+
+I'm a Computer Science student specializing in AI & ML at Kumaraguru Institute of Technology, Coimbatore. I spend most of my time building things that sit at the intersection of machine learning and software engineering — viral content prediction systems, face recognition pipelines, full-stack web applications, and lately, digging deeper into generative AI.
+
+I'm drawn to problems where data can actually change outcomes: predicting what makes content go viral, automating attendance through computer vision, or designing systems that make complex workflows simpler. I also care about how things *look* and *feel* — my background in UI/UX design means I don't ship ugly interfaces.
+
+Currently in my third year, working toward becoming someone who can take an idea from research paper to production-ready system.
+
+📍 Tiruppur, Tamil Nadu &nbsp; · &nbsp; 🎓 CGPA: 8.05/10
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- 🚀 CURRENTLY BUILDING -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 🚀 Currently Building
+
+<table>
+<tr>
+<td width="50%">
+
+**🔮 AI-Powered Content Intelligence** — Expanding ViralSense AI with deeper engagement analytics, multi-platform prediction models, and real-time dashboards for content strategy optimization.
+
+</td>
+<td width="50%">
+
+**👁️ Computer Vision Systems** — Exploring face recognition architectures beyond ResNet50, experimenting with real-time detection optimizations and edge deployment scenarios.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**🧠 Generative AI & LLMs** — Learning how large language models work under the hood, prompt engineering patterns, and building small agentic workflows.
+
+</td>
+<td width="50%">
+
+**🌐 Full-Stack + ML Integration** — Building full-stack systems where ML models aren't just notebooks — they're deployed, served, and integrated into real applications.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- 🔥 FEATURED PROJECTS -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 🔥 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 ViralSense AI
+
+<a href="https://github.com/Vignesh-61/ViralPredictionSystem">
+  <img src="https://img.shields.io/badge/🔬_ML_POWERED-f778ba?style=for-the-badge" alt="ML Powered"/>
+</a>
+
+**Predict whether social media content will go viral before you post it.**
+
+`Python` `Scikit-Learn` `Streamlit` `Pandas` `NumPy`
+
+🎯 **Problem:** Content creators lack data-driven tools to predict post performance before publishing.
+
+💡 **Approach:** Random Forest regression trained on engagement metrics — views, likes, shares, comments — to predict future view counts and virality probability.
+
+⚡ **Key Features:**
+- Virality prediction with engagement threshold analysis
+- Best-time posting recommendations
+- Interactive Streamlit dashboard with real-time analytics
+
+<a href="https://github.com/Vignesh-61/ViralPredictionSystem"><img src="https://img.shields.io/badge/📂_Repository-58a6ff?style=flat-square&logo=github&logoColor=white" alt="View Repository"/></a>
+
+</td>
+<td width="50%" valign="top">
+
+### 👁️ Smart Face Attendance
+
+<a href="https://github.com/Vignesh-61/smart-face-attendance-system">
+  <img src="https://img.shields.io/badge/🧠_DEEP_LEARNING-bc8cff?style=for-the-badge" alt="Deep Learning"/>
+</a>
+
+**Real-time face recognition system that automates attendance tracking.**
+
+`Python` `OpenCV` `YOLOv8` `CNN` `ResNet50`
+
+🎯 **Problem:** Manual attendance is slow, error-prone, and doesn't scale.
+
+💡 **Approach:** ResNet50 generates face embeddings, YOLOv8 handles real-time face detection, and a CNN classifier matches identities — all running on live video streams.
+
+⚡ **Key Features:**
+- Real-time face detection + recognition pipeline
+- Automatic attendance logging with timestamps
+- Historical attendance tracking and analytics
+
+<a href="https://github.com/Vignesh-61/smart-face-attendance-system"><img src="https://img.shields.io/badge/📂_Repository-58a6ff?style=flat-square&logo=github&logoColor=white" alt="View Repository"/></a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🚐 ShuttleBooking Management
+
+<a href="https://github.com/Vignesh-61/ShuttleBookingManagement">
+  <img src="https://img.shields.io/badge/🌐_FULL_STACK-58a6ff?style=for-the-badge" alt="Full Stack"/>
+</a>
+
+**Role-based platform for managing shuttle routes, bookings, and fleet operations.**
+
+`React.js` `React Router` `Context API` `CSS`
+
+🎯 **Problem:** Shuttle services need a centralized system for booking, tracking, and admin management with different access levels.
+
+💡 **Approach:** React-based SPA with role-based authentication (Passengers, Owners, Admins), dynamic dashboards, and protected routing.
+
+⚡ **Key Features:**
+- Three-tier role system with distinct dashboards
+- Dynamic shuttle search and booking workflow
+- Responsive UI with protected routes
+
+<a href="https://github.com/Vignesh-61/ShuttleBookingManagement"><img src="https://img.shields.io/badge/📂_Repository-58a6ff?style=flat-square&logo=github&logoColor=white" alt="View Repository"/></a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🛒 PulseCart
+
+<a href="https://github.com/Vignesh-61/PULSECART">
+  <img src="https://img.shields.io/badge/☕_JAVA_OOP-e8a838?style=for-the-badge" alt="Java OOP"/>
+</a>
+
+**Full-featured e-commerce simulation with shopping cart, payments, and admin tools.**
+
+`Java 11+` `Java Swing` `File I/O` `OOP`
+
+🎯 **Problem:** Demonstrate core OOP concepts through a real-world retail platform simulation.
+
+💡 **Approach:** Java Swing GUI with role-based auth (Customer/Admin), product catalog, cart management, and multiple payment options (UPI, Credit Card, COD).
+
+⚡ **Key Features:**
+- Complete online retail workflow
+- Role-based user management
+- Personalized product recommendations
+- Persistent data with Java serialization
+
+<a href="https://github.com/Vignesh-61/PULSECART"><img src="https://img.shields.io/badge/📂_Repository-58a6ff?style=flat-square&logo=github&logoColor=white" alt="View Repository"/></a>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- 🔬 RESEARCH PLAYGROUND -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 🔬 Research Playground
+
+> I'm actively moving beyond building standard applications toward understanding *why* and *how* AI systems work — experimenting with architectures, reading papers, and building things that don't have a tutorial to follow.
+
+<table>
+<tr>
+<td align="center" width="20%">
+
+**Deep Learning**
+<br/>
+CNN architectures, transfer learning, model optimization
+
+</td>
+<td align="center" width="20%">
+
+**Computer Vision**
+<br/>
+Object detection, face recognition, real-time video processing
+
+</td>
+<td align="center" width="20%">
+
+**Content Intelligence**
+<br/>
+Virality prediction, engagement modeling, social media analytics
+
+</td>
+<td align="center" width="20%">
+
+**Generative AI**
+<br/>
+LLM internals, prompt engineering, agentic systems
+
+</td>
+<td align="center" width="20%">
+
+**ML Engineering**
+<br/>
+Model deployment, full-stack ML integration, system design
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- 🛠️ TECH ARSENAL -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 🛠️ Tech Arsenal
 
 <div align="center">
 
@@ -85,111 +286,8 @@
 ![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
 ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
-![Framer](https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-</div>
-
-<br/>
-
-<!-- Skill Proficiency Bars -->
-<div align="center">
-  <img src="./assets/skills-bar.svg" alt="Skill Proficiency" width="100%" />
-</div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- 🚀 FEATURED PROJECTS -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp;Featured Projects
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🤖 ViralSense AI
-<a href="#">
-  <img src="https://img.shields.io/badge/🔥_ML_POWERED-f778ba?style=for-the-badge" alt="ML Powered"/>
-</a>
-
-**AI-powered social media viral prediction system**
-
-`Python` `Scikit-Learn` `Streamlit` `Pandas` `NumPy`
-
-- 📊 Predicts future view counts using **Random Forest**
-- 🎯 Determines virality based on engagement thresholds
-- 📈 Interactive dashboards with best-time posting recommendations
-- 🔄 Real-time content performance analysis
-
-<a href="#"><img src="https://img.shields.io/badge/View_Project-58a6ff?style=flat-square&logo=github&logoColor=white" alt="View Project"/></a>
-
-</td>
-<td width="50%" valign="top">
-
-### 👁️ Smart Face Attendance
-<a href="#">
-  <img src="https://img.shields.io/badge/🧠_DEEP_LEARNING-bc8cff?style=for-the-badge" alt="Deep Learning"/>
-</a>
-
-**Real-time face recognition attendance system**
-
-`Python` `OpenCV` `YOLOv8` `CNN` `ResNet50`
-
-- 🎯 **ResNet50** for high-accuracy face embeddings
-- ⚡ **YOLOv8** for real-time face detection
-- 📹 Live video streaming with OpenCV
-- ✅ Seamless automatic attendance marking
-
-<a href="#"><img src="https://img.shields.io/badge/View_Project-58a6ff?style=flat-square&logo=github&logoColor=white" alt="View Project"/></a>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🚐 ShuttleBooking Management
-<a href="#">
-  <img src="https://img.shields.io/badge/🌐_FULL_STACK-58a6ff?style=for-the-badge" alt="Full Stack"/>
-</a>
-
-**Role-based shuttle booking platform**
-
-`React.js` `React Router` `Context API` `CSS`
-
-- 🔐 Role-based auth: Passengers, Owners, Admins
-- 📊 Dynamic dashboards with shuttle search
-- 🛡️ Protected routing & responsive UI
-- 🚀 Smooth UX across all workflows
-
-<a href="#"><img src="https://img.shields.io/badge/View_Project-58a6ff?style=flat-square&logo=github&logoColor=white" alt="View Project"/></a>
-
-</td>
-<td width="50%" valign="top">
-
-### 🛒 PulseCart
-<a href="#">
-  <img src="https://img.shields.io/badge/☕_JAVA_OOP-e8a838?style=for-the-badge" alt="Java OOP"/>
-</a>
-
-**Feature-rich shopping cart simulation**
-
-`Java 11+` `Java Swing` `File I/O` `OOP`
-
-- 🏪 Full online retail platform simulation
-- 🔑 Role-based user authentication
-- 🔍 Search & personalized recommendations
-- 🎨 Intuitive GUI with Java Swing
-
-<a href="#"><img src="https://img.shields.io/badge/View_Project-58a6ff?style=flat-square&logo=github&logoColor=white" alt="View Project"/></a>
-
-</td>
-</tr>
-</table>
 
 </div>
 
@@ -199,7 +297,7 @@
 <!-- 🏆 COMPETITIVE PROGRAMMING -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30"> &nbsp;Competitive Programming
+## 🏆 Competitive Programming
 
 <div align="center">
   <img src="./assets/cp-stats.svg" alt="Competitive Programming Stats" width="100%" />
@@ -217,28 +315,10 @@
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- 📜 CERTIFICATIONS -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## <img src="https://media.giphy.com/media/3orifgYbnsq43eFsdO/giphy.gif" width="25"> &nbsp;Certifications
-
-<div align="center">
-
-| 🏅 Certification | 🏢 Issuer | 📅 Year |
-|:---|:---|:---:|
-| **Python Essentials 1** | Cisco Networking Academy | 2025 |
-| **Python Essentials 2** | Cisco Networking Academy | 2025 |
-| **Introduction to Cybersecurity** | Cisco Networking Academy | 2025 |
-
-</div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- 💼 EXPERIENCE -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-## <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="28"> &nbsp;Experience
+## 💼 Experience
 
 <table>
 <tr>
@@ -246,10 +326,12 @@
 
 ### 🎨 UI/UX Design Intern &nbsp;`May 2026 — Jun 2026`
 
-- ✨ Designed user-centered digital interfaces using **Figma, Adobe XD, Canva, Photoshop & Illustrator**
-- 📐 Created high-fidelity UI designs, reusable components & interactive prototypes
-- 🔄 Focused on **usability, accessibility, typography & responsive layouts**
-- 🤝 Collaborated on real-time design projects with design thinking methodologies
+Designed production-ready user interfaces and interactive prototypes for real client projects.
+
+- Built high-fidelity UI designs and reusable component libraries in **Figma** and **Adobe XD**
+- Created visual assets and branding materials using **Photoshop**, **Illustrator**, and **Canva**
+- Applied design thinking methodology — user research, wireframing, prototyping, usability testing
+- Focused on accessibility standards, responsive layouts, and consistent typography systems
 
 </td>
 </tr>
@@ -258,32 +340,49 @@
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- 📊 GITHUB STATS -->
+<!-- 📜 CERTIFICATIONS -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ris/giphy.gif" width="25"> &nbsp;GitHub Analytics
+<details>
+<summary><h2>📜 Certifications</h2></summary>
+
+<br/>
+
+| Certification | Issuer | Year |
+|:---|:---|:---:|
+| **Python Essentials 1** | Cisco Networking Academy | 2025 |
+| **Python Essentials 2** | Cisco Networking Academy | 2025 |
+| **Introduction to Cybersecurity** | Cisco Networking Academy | 2025 |
+
+</details>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- 🌱 CURRENTLY LEARNING -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 🌱 Currently Learning
+
+<div align="center">
+
+`Advanced Deep Learning Architectures` · `Computer Vision (Beyond Classification)` · `Generative AI & LLM Internals` · `Agentic AI Systems` · `System Design for ML` · `Research Methodology`
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- 📊 GITHUB ANALYTICS -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 📊 GitHub Analytics
 
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Vignesh-61&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=bc8cff&text_color=c9d1d9&ring_color=58a6ff" alt="GitHub Stats" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Vignesh-61&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=F778BA&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E" alt="GitHub Streak" />
 
-<br/>
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vignesh-61&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" />
-
-<br/><br/>
-
-<!-- Activity Graph -->
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Vignesh-61&theme=github-compact&bg_color=0d1117&color=58a6ff&line=bc8cff&point=f778ba&area=true&area_color=58a6ff&hide_border=true" alt="Contribution Graph" />
-
-</div>
-
-<br/>
-
-<!-- GitHub Trophies -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Vignesh-61&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8" alt="GitHub Trophies" width="98%"/>
 </div>
 
 <br/>
@@ -303,12 +402,19 @@
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- 🤝 CONNECT WITH ME -->
+<!-- 🤝 CONNECT -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"> &nbsp;Let's Connect
+## 🤝 Let's Build Something Interesting
+
+I'm open to collaborating on:
+
+**🤖 AI/ML Projects** · **🔬 Research Collaborations** · **🌐 Full-Stack Applications** · **🏆 Hackathons** · **💡 Open Source**
+
+If you're working on something at the intersection of AI and real-world problem solving, I'd like to hear about it.
 
 <div align="center">
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Vignesh_V-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vignesh-v-30209932a/)
 [![Gmail](https://img.shields.io/badge/Gmail-kit28.24bam061-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kit28.24bam061@gmail.com)

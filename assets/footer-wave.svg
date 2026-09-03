@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 120" width="900" height="120">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 100" width="900" height="100">
   <defs>
     <linearGradient id="bgGrad3" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" style="stop-color:#0d1117"/>
@@ -18,42 +18,42 @@
     </filter>
   </defs>
   
-  <rect width="900" height="120" fill="url(#bgGrad3)" rx="10"/>
+  <rect width="900" height="100" fill="url(#bgGrad3)" rx="10"/>
 
   <!-- Animated wave -->
-  <path d="M 0 60 Q 150 30, 300 60 Q 450 90, 600 60 Q 750 30, 900 60" stroke="url(#snakeGrad)" stroke-width="2" fill="none" opacity="0.3" filter="url(#footerGlow)">
+  <path d="M 0 50 Q 150 25, 300 50 Q 450 75, 600 50 Q 750 25, 900 50" stroke="url(#snakeGrad)" stroke-width="2" fill="none" opacity="0.3" filter="url(#footerGlow)">
     <animate attributeName="d" 
-      values="M 0 60 Q 150 30, 300 60 Q 450 90, 600 60 Q 750 30, 900 60;
-              M 0 60 Q 150 90, 300 60 Q 450 30, 600 60 Q 750 90, 900 60;
-              M 0 60 Q 150 30, 300 60 Q 450 90, 600 60 Q 750 30, 900 60" 
+      values="M 0 50 Q 150 25, 300 50 Q 450 75, 600 50 Q 750 25, 900 50;
+              M 0 50 Q 150 75, 300 50 Q 450 25, 600 50 Q 750 75, 900 50;
+              M 0 50 Q 150 25, 300 50 Q 450 75, 600 50 Q 750 25, 900 50" 
       dur="6s" repeatCount="indefinite"/>
   </path>
-  <path d="M 0 60 Q 150 40, 300 60 Q 450 80, 600 60 Q 750 40, 900 60" stroke="url(#snakeGrad)" stroke-width="1.5" fill="none" opacity="0.2" filter="url(#footerGlow)">
+  <path d="M 0 50 Q 150 35, 300 50 Q 450 65, 600 50 Q 750 35, 900 50" stroke="url(#snakeGrad)" stroke-width="1.5" fill="none" opacity="0.2" filter="url(#footerGlow)">
     <animate attributeName="d" 
-      values="M 0 60 Q 150 80, 300 60 Q 450 40, 600 60 Q 750 80, 900 60;
-              M 0 60 Q 150 40, 300 60 Q 450 80, 600 60 Q 750 40, 900 60;
-              M 0 60 Q 150 80, 300 60 Q 450 40, 600 60 Q 750 80, 900 60" 
+      values="M 0 50 Q 150 65, 300 50 Q 450 35, 600 50 Q 750 65, 900 50;
+              M 0 50 Q 150 35, 300 50 Q 450 65, 600 50 Q 750 35, 900 50;
+              M 0 50 Q 150 65, 300 50 Q 450 35, 600 50 Q 750 65, 900 50" 
       dur="5s" repeatCount="indefinite"/>
   </path>
 
   <!-- Footer text -->
-  <text x="450" y="55" text-anchor="middle" fill="#8b949e" font-family="'Segoe UI', Arial, sans-serif" font-size="13" font-weight="400">
-    "The best way to predict the future is to create it." — Abraham Lincoln
+  <text x="450" y="45" text-anchor="middle" fill="#8b949e" font-family="'Segoe UI', Arial, sans-serif" font-size="12" font-weight="400" letter-spacing="1">
+    If you find something interesting here, let's build together.
   </text>
-  <text x="450" y="80" text-anchor="middle" fill="#58a6ff" font-family="'Segoe UI', Arial, sans-serif" font-size="11" font-weight="300" letter-spacing="2" opacity="0.7">
-    DESIGNED WITH 💙 BY VIGNESH V • 2026
+  <text x="450" y="68" text-anchor="middle" fill="#58a6ff" font-family="'Segoe UI', Arial, sans-serif" font-size="10" font-weight="300" letter-spacing="2" opacity="0.7">
+    CRAFTED BY VIGNESH V · 2026
   </text>
 
   <!-- Animated dots -->
-  <circle cx="100" cy="100" r="2" fill="#58a6ff" opacity="0.5">
+  <circle cx="100" cy="85" r="2" fill="#58a6ff" opacity="0.5">
     <animate attributeName="cx" values="100;800;100" dur="15s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values="0.5;1;0.5" dur="3s" repeatCount="indefinite"/>
   </circle>
-  <circle cx="800" cy="20" r="1.5" fill="#f778ba" opacity="0.4">
+  <circle cx="800" cy="15" r="1.5" fill="#f778ba" opacity="0.4">
     <animate attributeName="cx" values="800;100;800" dur="12s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values="0.4;0.8;0.4" dur="4s" repeatCount="indefinite"/>
   </circle>
-  <circle cx="450" cy="110" r="1.5" fill="#bc8cff" opacity="0.4">
+  <circle cx="450" cy="90" r="1.5" fill="#bc8cff" opacity="0.4">
     <animate attributeName="cx" values="200;700;200" dur="10s" repeatCount="indefinite"/>
   </circle>
 </svg>

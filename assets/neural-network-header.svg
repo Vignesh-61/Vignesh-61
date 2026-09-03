@@ -270,12 +270,12 @@
 
   <!-- Main text -->
   <text x="450" y="115" text-anchor="middle" fill="url(#textGrad)" font-family="'Segoe UI', Arial, sans-serif" font-size="42" font-weight="700" filter="url(#glow)">
-    Vignesh V
+    VIGNESH V
   </text>
   
   <!-- Subtitle -->
   <text x="450" y="155" text-anchor="middle" fill="#8b949e" font-family="'Segoe UI', Arial, sans-serif" font-size="16" font-weight="400" letter-spacing="3">
-    AI/ML ENGINEER • FULL-STACK DEVELOPER • UI/UX DESIGNER
+    AI/ML DEVELOPER · FULL-STACK BUILDER · RESEARCH EXPLORER
   </text>
 
   <!-- Decorative line -->
@@ -286,12 +286,12 @@
 
   <!-- Tagline -->
   <text x="450" y="205" text-anchor="middle" fill="#c9d1d9" font-family="'Segoe UI', Arial, sans-serif" font-size="13" font-weight="300" opacity="0.9">
-    Building intelligent systems at the intersection of AI and beautiful design
+    Building AI systems that solve real problems — from computer vision to full-stack applications
   </text>
 
   <!-- Location & Education -->
   <text x="450" y="235" text-anchor="middle" fill="#58a6ff" font-family="'Segoe UI', Arial, sans-serif" font-size="12" font-weight="400" opacity="0.7">
-    📍 Tiruppur, Tamil Nadu  •  🎓 B.E CSE (AIML) @ KIT, Coimbatore  •  CGPA: 8.05
+    📍 Tiruppur, India  ·  🎓 B.E. CSE (AI &amp; ML) · KIT, Coimbatore
   </text>
 
   <!-- Animated scanning line -->
