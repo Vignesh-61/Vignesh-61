@@ -15,7 +15,7 @@
 <!-- Navigation -->
 <br/>
 
-[`About`](#-about) · [`Projects`](#-featured-projects) · [`Research`](#-research-playground) · [`Skills`](#-tech-arsenal) · [`Achievements`](#-competitive-programming) · [`Connect`](#-lets-build-something-interesting)
+[`About`](#-about) · [`Projects`](#-featured-projects) · [`Skills`](#-tech-arsenal) · [`Achievements`](#-competitive-programming) · [`Connect`](#-lets-build-something-interesting)
 
 </div>
 
