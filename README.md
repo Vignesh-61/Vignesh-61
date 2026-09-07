@@ -196,49 +196,7 @@ Currently in my third year, working toward becoming someone who can take an idea
 <!-- 🔬 RESEARCH PLAYGROUND -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-## 🔬 Research Playground
 
-> I'm actively moving beyond building standard applications toward understanding *why* and *how* AI systems work — experimenting with architectures, reading papers, and building things that don't have a tutorial to follow.
-
-<table>
-<tr>
-<td align="center" width="20%">
-
-**Deep Learning**
-<br/>
-CNN architectures, transfer learning, model optimization
-
-</td>
-<td align="center" width="20%">
-
-**Computer Vision**
-<br/>
-Object detection, face recognition, real-time video processing
-
-</td>
-<td align="center" width="20%">
-
-**Content Intelligence**
-<br/>
-Virality prediction, engagement modeling, social media analytics
-
-</td>
-<td align="center" width="20%">
-
-**Generative AI**
-<br/>
-LLM internals, prompt engineering, agentic systems
-
-</td>
-<td align="center" width="20%">
-
-**ML Engineering**
-<br/>
-Model deployment, full-stack ML integration, system design
-
-</td>
-</tr>
-</table>
 
 <br/>
 
