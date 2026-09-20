@@ -367,7 +367,7 @@ Designed production-ready user interfaces and interactive prototypes for real cl
 
 I'm open to collaborating on:
 
-**🤖 AI/ML Projects** · **🔬 Research Collaborations** · **🌐 Full-Stack Applications** · **🏆 Hackathons** · **💡 Open Source**
+**🤖 AI/ML Projects** · **🌐 Full-Stack Applications** · **🏆 Hackathons** · **💡 Open Source**
 
 If you're working on something at the intersection of AI and real-world problem solving, I'd like to hear about it.
 
