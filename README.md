@@ -23,7 +23,7 @@
 <div align="center">
 <br/>
 
-`🎓 B.E. CSE (AI & ML)` &nbsp; `🤖 AI / ML` &nbsp; `👁️ Computer Vision` &nbsp; `🌐 Full-Stack` &nbsp; `🔬 Research` &nbsp; `💻 650+ Problems Solved`
+`🎓 B.E. CSE (AI & ML)` &nbsp; `🤖 AI / ML` &nbsp; `👁️ Computer Vision` &nbsp; `🌐 Full-Stack` &nbsp; `💻 650+ Problems Solved`
 
 </div>
 
