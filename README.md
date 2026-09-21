@@ -35,13 +35,13 @@
 
 ## 🧠 About
 
-I'm a Computer Science student specializing in AI & ML at Kumaraguru Institute of Technology, Coimbatore. I spend most of my time building things that sit at the intersection of machine learning and software engineering — viral content prediction systems, face recognition pipelines, full-stack web applications, and lately, digging deeper into generative AI.
+I'm a Computer Science student specializing in AI & ML at Kalaignarkarunanidhi Institute of Technology, Coimbatore. I spend most of my time building things that sit at the intersection of machine learning and software engineering — viral content prediction systems, face recognition pipelines, full-stack web applications, and lately, digging deeper into generative AI.
 
 I'm drawn to problems where data can actually change outcomes: predicting what makes content go viral, automating attendance through computer vision, or designing systems that make complex workflows simpler. I also care about how things *look* and *feel* — my background in UI/UX design means I don't ship ugly interfaces.
 
 Currently in my third year, working toward becoming someone who can take an idea from research paper to production-ready system.
 
-📍 Tiruppur, Tamil Nadu &nbsp; · &nbsp; 🎓 CGPA: 8.05/10
+📍 Tiruppur, Tamil Nadu &nbsp; · &nbsp; 🎓 CGPA: 8/10
 
 <br/>
 
